@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="button1">C346 Android Programming</string>
+    <string name="button2">C349 iPad Programming</string>
+    <string name="UIUX">C218 UI UX</string>
+    <string name="web">C203 Web Development in PHP</string>
+    <string name="back">BACK</string>
+
+</resources>
